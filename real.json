@@ -1,0 +1,7 @@
+{
+  "task": "host-my-stuff",
+  "configSource": "cli",
+  "stack": {
+    "type": "docker"
+  }
+}
